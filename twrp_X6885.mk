@@ -14,7 +14,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/generic/vendor_boot/device.mk)
 
 PRODUCT_DEVICE := vendor_boot
-PRODUCT_NAME := omni_vendor_boot
+PRODUCT_NAME := twrp_X6885
 PRODUCT_BRAND := generic
 PRODUCT_MODEL := Generic Device
 PRODUCT_MANUFACTURER := generic
