@@ -11,7 +11,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from vendor_boot device
-$(call inherit-product, device/generic/vendor_boot/device.mk)
+$(call inherit-product, device/infinix/X6885/device.mk)
 
 PRODUCT_DEVICE := vendor_boot
 PRODUCT_NAME := twrp_X6885
