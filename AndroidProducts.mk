@@ -9,5 +9,5 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     twrp_X6885-user \
     twrp_X6885-userdebug \
-    twrp_x6885-eng
+    twrp_X6885-eng
 
