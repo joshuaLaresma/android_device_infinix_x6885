@@ -7,7 +7,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_X6885.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_vendor_boot-user \
-    omni_vendor_boot-userdebug \
-    omni_vendor_boot-eng
+    twrp_X6885-user \
+    twrp_X6885-userdebug \
+    twrp_x6885-eng
 
